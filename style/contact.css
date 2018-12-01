@@ -3,5 +3,19 @@ body {
 }
 
 .jumbotron{
+    text-align: center;
+    opacity: .5;
+    font-weight: 500
+}
+
+#heading {
+    font-weight: 350
+}
+
+#tag {
+    font-weight: 400
+}
+
+#navbar {
     text-align: center
 }

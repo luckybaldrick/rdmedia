@@ -2,7 +2,14 @@ body {
     background-image: url("../images/background.jpg")
 }
 
-#video {
-    padding: 3%;
+
+
+.jumbotron {
+    text-align: center;
+    opacity: .5;
 }
 
+#video {
+    padding: 3%;
+    opacity: 1 !important;
+}

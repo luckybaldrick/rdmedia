@@ -2,14 +2,16 @@ body {
     background-image: url("../images/background.jpg")
 }
 
-#intro {
-text-align: center
-}
-
 #heading {
-    text-align: center
+    font-weight: 300
 }
 
 #tag {
-    text-align: center
+    font-weight: 400
+}
+
+.jumbotron {
+    opacity: .5;
+    text-align: center;
+    font-weight: 500
 }
