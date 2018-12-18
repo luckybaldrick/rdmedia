@@ -1,11 +1,13 @@
-body {
-    background-image: url("../images/background.jpg")
-}
+
 
 .jumbotron{
+    /* text-align: center; */
+    font-weight: 500;
+}
+
+#jumbotron {
+    background-color: white;
     text-align: center;
-    opacity: .5;
-    font-weight: 500
 }
 
 #heading {
@@ -19,3 +21,27 @@ body {
 #navbar {
     text-align: center
 }
+
+#toplogo {
+    width: 50%;
+    height: 80%;
+}
+
+#item:hover {
+    color: red
+}
+
+#item {
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto Slab Bold', Arial;
+    font-size: 70%
+}
+
+#menu {
+    text-align: center;
+    width: 100%;
+    background-color: black;
+
+}
+

@@ -1,12 +1,42 @@
-body {
-    background-image: url("../images/background.jpg")
+
+#jumbotron {
+    background-color: white;
+    text-align: center;
 }
 
+#heading {
+    font-weight: 350
+}
 
+#tag {
+    font-weight: 400
+}
 
-.jumbotron {
+#navbar {
+    text-align: center
+}
+
+#toplogo {
+    width: 50%;
+    height: 80%;
+}
+
+#item:hover {
+    color: red
+}
+
+#item {
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto Slab Bold', Arial;
+    font-size: 70%
+}
+
+#menu {
     text-align: center;
-    opacity: .5;
+    width: 100%;
+    background-color: black;
+
 }
 
 #video {

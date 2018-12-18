@@ -12,7 +12,7 @@
     z-index: 0;
     width: 90%;
     height: 100%;
-    margin: 3%;
+    /* margin: 3%; */
 }
 
 #jumbotron {
@@ -20,7 +20,7 @@
 }
 
 #item:hover {
-    color: maroon
+    color: red
 }
 
 #item {
@@ -36,7 +36,8 @@
 
 #heading {
     text-align: center;
-    font-family: 'Pragmatica Bold', Arial
+    font-family: 'Pragmatica Bold', Arial;
+    font-weight: bold;
 }
 
 #tag {
@@ -59,7 +60,8 @@
 
 #item {
     font-weight: bold;
-    font-family: 'Roboto Slab Bold', Arial
+    font-family: 'Roboto Slab Bold', Arial;
+    font-size: 70%
 }
 
 #tagline {
@@ -76,9 +78,11 @@
     color: black
 }
 
-#nav {
+/* #nav {
     background-color: black;
-}
+    margin-top: 30%;
+    margin-bottom: 30%;
+} */
 
 #link {
     color: white;
@@ -87,3 +91,4 @@
 #link:hover {
     color: red
 }
+
