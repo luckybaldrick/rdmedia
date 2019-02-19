@@ -11,7 +11,8 @@
 }
 
 #heading {
-    font-weight: 350
+    font-family: 'Pragmatica Bold', Arial;
+    font-weight: bold;
 }
 
 #tag {
